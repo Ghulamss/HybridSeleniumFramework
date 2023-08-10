@@ -114,7 +114,7 @@ public class AddCountryMaker {
 	WebElement logoutMaker;
 
 	// View Page in Checker
-	//
+	//  Adding Country Maker on ------------------------------------------------------------------------------
 	@FindBy(xpath = "//input[@id='view']")
 	WebElement viewInChecker;
 
