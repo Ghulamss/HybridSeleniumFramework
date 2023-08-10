@@ -3,15 +3,26 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.hybridFramework.AddMaker.AddBankMakerTest">
+      <class name="com.hybridFramework.AddMaker.AddCountryMakerTest">
         <methods>
           <include name="clickonsubmitbuttonAndverifySuccesfullMessagePage"/>
+          <include name="testloginToCountryCheckerToVerifyCheckerViewPageWhenModifedTheCountry"/>
+          <include name="verifyCountrycheckerPageListAfterModificationhasDoneByMaker"/>
           <include name="endTest"/>
-          <include name="afterMethod"/>
-          <include name="launchBrowser"/>
+          <include name="goToTheCountryMakerToVerifyCheckerHasApprovedTheModifyData"/>
+          <include name="toLoginTheChekerPage"/>
           <include name="beforeMethod"/>
+          <include name="verifyAddcheckerListinCountryCheckerpage"/>
+          <include name="switchToMainwindow"/>
+          <include name="testloginToCountryChecker"/>
+          <include name="testLoginToApplication2"/>
+          <include name="afterMethod"/>
+          <include name="switchTowindowModifyViewPageToADDCOUNTRYMAKERPage"/>
+          <include name="launchBrowser"/>
+          <include name="gotoMakerCheckerApprovedCountrypage"/>
+          <include name="switchToWindowByUsingIterator"/>
         </methods>
-      </class> <!-- com.hybridFramework.AddMaker.AddBankMakerTest -->
+      </class> <!-- com.hybridFramework.AddMaker.AddCountryMakerTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
