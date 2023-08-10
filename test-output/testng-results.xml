@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T23:44:14Z" name="Default suite" finished-at="2023-08-09T23:48:58Z" duration-ms="284225">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T23:44:14Z" name="Default test" finished-at="2023-08-09T23:48:58Z" duration-ms="284225">
+      <class name="com.hybridFramework.AddMaker.AddBankMakerTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:14Z" name="launchBrowser" finished-at="2023-08-10T05:14:15Z" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:15Z" name="beforeMethod" finished-at="2023-08-10T05:14:15Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.testLoginToAddBankMaker() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testLoginToAddBankMaker()[pri:1, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:15Z" name="testLoginToAddBankMaker" finished-at="2023-08-10T05:14:17Z" duration-ms="1379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginToAddBankMaker -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:17Z" name="afterMethod" finished-at="2023-08-10T05:14:17Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToAddBankMaker status=SUCCESS method=AddBankMakerTest.testLoginToAddBankMaker()[pri:1, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:17Z" name="beforeMethod" finished-at="2023-08-10T05:14:17Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.testToAddBankMakerPage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testToAddBankMakerPage()[pri:2, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:17Z" name="testToAddBankMakerPage" finished-at="2023-08-10T05:14:31Z" duration-ms="13967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testToAddBankMakerPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:31Z" name="afterMethod" finished-at="2023-08-10T05:14:31Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testToAddBankMakerPage status=SUCCESS method=AddBankMakerTest.testToAddBankMakerPage()[pri:2, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:31Z" name="beforeMethod" finished-at="2023-08-10T05:14:31Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.testToBankchekerlogin() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testToBankchekerlogin()[pri:3, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:31Z" name="testToBankchekerlogin" finished-at="2023-08-10T05:14:42Z" duration-ms="11123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testToBankchekerlogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:42Z" name="afterMethod" finished-at="2023-08-10T05:14:42Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testToBankchekerlogin status=SUCCESS method=AddBankMakerTest.testToBankchekerlogin()[pri:3, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:42Z" name="beforeMethod" finished-at="2023-08-10T05:14:42Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.verifyAddcheckerListinBankCheckerpage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAddcheckerListinBankCheckerpage()[pri:4, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:42Z" name="verifyAddcheckerListinBankCheckerpage" finished-at="2023-08-10T05:14:45Z" duration-ms="3379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddcheckerListinBankCheckerpage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:45Z" name="afterMethod" finished-at="2023-08-10T05:14:45Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddcheckerListinBankCheckerpage status=SUCCESS method=AddBankMakerTest.verifyAddcheckerListinBankCheckerpage()[pri:4, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:45Z" name="beforeMethod" finished-at="2023-08-10T05:14:45Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.clickonsubmitbuttonAndverifySuccesfullMessagePage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="clickonsubmitbuttonAndverifySuccesfullMessagePage()[pri:5, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:45Z" name="clickonsubmitbuttonAndverifySuccesfullMessagePage" finished-at="2023-08-10T05:14:49Z" duration-ms="3760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonsubmitbuttonAndverifySuccesfullMessagePage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:49Z" name="afterMethod" finished-at="2023-08-10T05:14:49Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickonsubmitbuttonAndverifySuccesfullMessagePage status=SUCCESS method=AddBankMakerTest.clickonsubmitbuttonAndverifySuccesfullMessagePage()[pri:5, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:49Z" name="beforeMethod" finished-at="2023-08-10T05:14:49Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.gotoMakerWhenCheckerApprovedBankMakerpage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="gotoMakerWhenCheckerApprovedBankMakerpage()[pri:6, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:14:49Z" name="gotoMakerWhenCheckerApprovedBankMakerpage" finished-at="2023-08-10T05:15:59Z" duration-ms="70503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoMakerWhenCheckerApprovedBankMakerpage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:15:59Z" name="afterMethod" finished-at="2023-08-10T05:15:59Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=gotoMakerWhenCheckerApprovedBankMakerpage status=SUCCESS method=AddBankMakerTest.gotoMakerWhenCheckerApprovedBankMakerpage()[pri:6, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:15:59Z" name="beforeMethod" finished-at="2023-08-10T05:15:59Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.switchToMainwindow() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="switchToMainwindow()[pri:7, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:15:59Z" name="switchToMainwindow" finished-at="2023-08-10T05:16:15Z" duration-ms="15576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToMainwindow -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:15Z" name="beforeMethod" finished-at="2023-08-10T05:16:15Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.testloginToBankCheckerPage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:15Z" name="afterMethod" finished-at="2023-08-10T05:16:15Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=switchToMainwindow status=SUCCESS method=AddBankMakerTest.switchToMainwindow()[pri:7, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testloginToBankCheckerPage()[pri:8, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:15Z" name="testloginToBankCheckerPage" finished-at="2023-08-10T05:16:22Z" duration-ms="6816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginToBankCheckerPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:22Z" name="afterMethod" finished-at="2023-08-10T05:16:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testloginToBankCheckerPage status=SUCCESS method=AddBankMakerTest.testloginToBankCheckerPage()[pri:8, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="verifyBankCheckerPageListAfterModificationhasDoneByMaker()[pri:9, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:22Z" name="verifyBankCheckerPageListAfterModificationhasDoneByMaker" finished-at="2023-08-10T05:16:23Z" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBankCheckerPageListAfterModificationhasDoneByMaker -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:22Z" name="beforeMethod" finished-at="2023-08-10T05:16:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.verifyBankCheckerPageListAfterModificationhasDoneByMaker() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:23Z" name="beforeMethod" finished-at="2023-08-10T05:16:23Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.goToTheBankMakerToVerifyCheckerHasApprovedTheModifyData() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:23Z" name="afterMethod" finished-at="2023-08-10T05:16:23Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBankCheckerPageListAfterModificationhasDoneByMaker status=SUCCESS method=AddBankMakerTest.verifyBankCheckerPageListAfterModificationhasDoneByMaker()[pri:9, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="goToTheBankMakerToVerifyCheckerHasApprovedTheModifyData()[pri:10, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:16:23Z" name="goToTheBankMakerToVerifyCheckerHasApprovedTheModifyData" finished-at="2023-08-10T05:17:32Z" duration-ms="68494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToTheBankMakerToVerifyCheckerHasApprovedTheModifyData -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:17:32Z" name="beforeMethod" finished-at="2023-08-10T05:17:32Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.switchTowindowModifyViewPageToAddBankMakerPage() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:17:32Z" name="afterMethod" finished-at="2023-08-10T05:17:32Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=goToTheBankMakerToVerifyCheckerHasApprovedTheModifyData status=SUCCESS method=AddBankMakerTest.goToTheBankMakerToVerifyCheckerHasApprovedTheModifyData()[pri:10, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="switchTowindowModifyViewPageToAddBankMakerPage()[pri:11, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:17:32Z" name="switchTowindowModifyViewPageToAddBankMakerPage" finished-at="2023-08-10T05:17:48Z" duration-ms="15904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchTowindowModifyViewPageToAddBankMakerPage -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:17:48Z" name="beforeMethod" finished-at="2023-08-10T05:17:48Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridFramework.AddMaker.AddBankMakerTest.testloginToBankCheckerToVerifyCheckerViewPageWhenModifedTheBankMaker() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:17:48Z" name="afterMethod" finished-at="2023-08-10T05:17:48Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=switchTowindowModifyViewPageToAddBankMakerPage status=SUCCESS method=AddBankMakerTest.switchTowindowModifyViewPageToAddBankMakerPage()[pri:11, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testloginToBankCheckerToVerifyCheckerViewPageWhenModifedTheBankMaker()[pri:12, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:17:48Z" name="testloginToBankCheckerToVerifyCheckerViewPageWhenModifedTheBankMaker" finished-at="2023-08-10T05:18:58Z" duration-ms="70025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testloginToBankCheckerToVerifyCheckerViewPageWhenModifedTheBankMaker -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:18:58Z" name="endTest" finished-at="2023-08-10T05:18:58Z" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e]" started-at="2023-08-10T05:18:58Z" name="afterMethod" finished-at="2023-08-10T05:18:58Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testloginToBankCheckerToVerifyCheckerViewPageWhenModifedTheBankMaker status=SUCCESS method=AddBankMakerTest.testloginToBankCheckerToVerifyCheckerViewPageWhenModifedTheBankMaker()[pri:12, instance:com.hybridFramework.AddMaker.AddBankMakerTest@68b32e3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.hybridFramework.AddMaker.AddBankMakerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

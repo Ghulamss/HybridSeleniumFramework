@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FunctionalSuite]">
+  <test name="FunctionalTest(failed)">
+    <classes>
+      <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CorporateCountryLicenseMakerTest">
+        <methods>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="launchBrowser"/>
+          <include name="verifyCorporateCountryLicenseCheckerPageListAfterModificationhasDoneByMaker"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CorporateCountryLicenseMakerTest -->
+    </classes>
+  </test> <!-- FunctionalTest(failed) -->
+</suite> <!-- Failed suite [FunctionalSuite] -->

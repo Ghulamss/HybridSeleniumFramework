@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+  <test thread-count="5" name="FunctionalTest">
+    <classes>
+      <class name="com.hybridFramework.pagesOfTransactionTest.TransactionBulkUploadTest"/>
+     <!--  <class name="com.hybridFramework.pagesOfTransactionTest.TransactionFileStatusTest"/>
+      <class name="com.hybridFramework.pagesOfTransactionTest.Transaction360ReportTest"/>
+    
+      <class name="com.hybridFramework.pagesOfTransactionTest.CorporateTransactionApprovalMakerTest"/> -->
+    </classes>
+  </test> <!-- FunctionalTest -->
+</suite> <!-- TestSuite -->

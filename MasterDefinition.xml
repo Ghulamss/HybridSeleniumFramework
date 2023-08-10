@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="SmokeTest">
+    <classes>
+    <!-- <class name="com.hybridFramework.AddMaker.AddCountryMakerTest"/> -->
+    <!-- <class name="com.hybridFramework.AddMaker.AddCurrencyMakerTest"/> -->
+    <!--   <class name="com.hybridFramework.AddMaker.AddEntityTypeMakerTest"/> -->
+     <!--  <class name="com.hybridFramework.AddMaker.AddKeywordMakerTest"/> -->
+    <!-- <class name="com.hybridFramework.AddMaker.AddPaymentTypeMakerTest"/>   -->
+     <!--  <class name="com.hybridFramework.AddMaker.AddPurposeMakerTest"/> -->
+      <!-- <class name="com.hybridFramework.AddMaker.AddSubPurposeMakerTest"/> -->
+    <!--  <class name="com.hybridFramework.AddMaker.AddBankMakerTest"/> -->
+     
+    <!-- <class name="com.hybridFramework.AddMaker.AddRoutingMakerTest"/> 
+    On View Page 10743	data is there, SO its working very slow ,On Checker View Page Data is not Available but previ
+    data was there.
+    -->
+   <!--  <class name="com.hybridFramework.AddMaker.AddMultipleRoutingKeywordMakerTest"/>
+    View Page has removed on Maker Page.and On Checker page View data has removed.
+     -->
+    
+     <!-- <class name="com.hybridFramework.AddMaker.FileFormatListCheckTest"/> -->
+      
+      <!-- <class name="com.hybridFramework.AddMaker.AddPaymentRoutingMakerTest"/> -->
+      
+      <!-- <class name="com.hybridFramework.AddMaker.UpperLimitMakerTest"/> -->
+     
+       <class name="com.hybridFramework.AddMaker.APIKeyMakerTest"/>
+       
+      
+      
+     <!--  <class name="com.hybridFramework.AddMaker.AddCutOffMakerTest"/>
+      
+      <class name="com.hybridFramework.AddMaker.AddHolidayMakerTest"/> -->
+     
+     
+  
+    
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- Suite -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FunctionalSuite">
+  <test thread-count="5" name="FunctionalTest">
+    <classes>
+    
+     <!--  <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CreateCorporateMakerTest"/> -->
+      
+      <!--  <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CorporateCountryLicenseMakerTest"/> -->
+     <!--  <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CorporatePoolAccountDetailsMakerTest"/> -->
+      <!-- <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CorporatePaymentMappingMakerTest"/> -->
+      
+      <!-- <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CorporateDailyLimitMakerTest"/> -->
+     
+       <!-- <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CorporatePaymentLimitsMakerTest"/> -->
+      
+     <!--  <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.AddCorporatePurposeMakerTest"/> -->
+     
+      <!-- <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.TransactionFeeMaintenanceMakerTest"/> -->
+      
+<!--  
+not Completed because File Name    
+ <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.AddCorporateCertificateDetailsTest"/>
+
+ -->      
+      
+      <!-- <class name="com.hybridFramework.PagesOfCorporateDefinitionMakerTest.CreateCorporateUserMakerTest"/> -->
+      
+     
+    
+    
+    </classes>
+    
+  </test> <!-- FunctionalTest -->
+</suite> <!-- FunctionalSuite -->

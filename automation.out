@@ -1,0 +1,88 @@
+2023-08-10 05:14:14 INFO  TestBase:119 - loading config.properties
+2023-08-10 05:14:14 INFO  TestBase:124 - loading or.properties
+2023-08-10 05:14:14 INFO  TestBase:129 - loading homepage.properties
+2023-08-10 05:14:15 INFO  WaitHelper:33 - 20
+2023-08-10 05:14:15 INFO  WaitHelper:38 - 240
+2023-08-10 05:14:15 INFO  AddBankMakerTest:20 - com.hybridFramework.AddMaker.AddBankMakerTest started
+2023-08-10 05:14:16 INFO  AddBankMaker:131 - enter login id..
+2023-08-10 05:14:16 INFO  AddBankMaker:138 - enter password=>
+2023-08-10 05:14:17 INFO  AddBankMaker:146 - Click On Login button..
+2023-08-10 05:14:24 INFO  AddBankMaker:164 - clik on master definition maker Menu==>Master Definition Maker
+2023-08-10 05:14:24 INFO  AddBankMaker:170 - click on Add Bank Maker SubMenu===>Add Bank Maker
+2023-08-10 05:14:29 INFO  AddBankMaker:182 -  To switch the main Enter values Fields in * are mandatory
+2023-08-10 05:14:29 INFO  AddBankMaker:192 - Enter Bank Id==>BIdCN
+2023-08-10 05:14:29 INFO  AddBankMaker:201 - enter Bank Name==>PndADM
+2023-08-10 05:14:29 INFO  AddBankMaker:209 - enter Email ==>
+2023-08-10 05:14:29 INFO  AddBankMaker:221 - select is Active Bank  ?==[[ChromeDriver: chrome on ANY (24a9ee6e123d98fe55cb719eb8754ec2)] -> xpath: //select[@id='isIMPSFlag']]
+2023-08-10 05:14:30 INFO  AddBankMaker:235 - click on submit In Maker page==>[[ChromeDriver: chrome on ANY (24a9ee6e123d98fe55cb719eb8754ec2)] -> xpath: //input[@value='Submit']]
+2023-08-10 05:14:30 INFO  AddBankMaker:244 - verify the Successful Message===>>>Record has been added successfully.
+2023-08-10 05:14:30 INFO  AddBankMaker:247 - Click On Log Out Button...
+2023-08-10 05:14:30 INFO  AddBankMaker:249 - ==Successfull Message has Matched with  Text==
+2023-08-10 05:14:31 INFO  AddBankMaker:131 - enter login id..
+2023-08-10 05:14:31 INFO  AddBankMaker:138 - enter password=>
+2023-08-10 05:14:31 INFO  AddBankMaker:146 - Click On Login button..
+2023-08-10 05:14:38 INFO  AddBankMaker:273 -  Get text Master Definition Checker==>Master Definition Checker
+2023-08-10 05:14:38 INFO  AddBankMaker:274 - Clcik on MasterDefinitionChecker==>
+2023-08-10 05:14:39 INFO  AddBankMaker:281 - click On Add Bank Checker SubMenu==>Add Bank Checker
+2023-08-10 05:14:42 INFO  AddBankMaker:293 - Get Text of Bank Checker Page==>BANK CHECKER
+2023-08-10 05:14:42 INFO  AddBankMaker:298 - Successfully verified the Bank Checker Page.
+2023-08-10 05:14:45 INFO  AddBankMaker:352 - Click On Check Box 
+2023-08-10 05:14:48 INFO  AddBankMaker:366 -  click on Submit button on Checker===>>
+2023-08-10 05:14:49 INFO  AddBankMaker:369 - successful Message in Checker====Record updated successfully.
+2023-08-10 05:14:49 INFO  AddBankMaker:378 - Click on Logout in checker PageLogout
+2023-08-10 05:14:50 INFO  AddBankMaker:131 - enter login id..
+2023-08-10 05:14:50 INFO  AddBankMaker:138 - enter password=>
+2023-08-10 05:14:50 INFO  AddBankMaker:146 - Click On Login button..
+2023-08-10 05:15:00 INFO  AddBankMaker:164 - clik on master definition maker Menu==>Master Definition Maker
+2023-08-10 05:15:00 INFO  AddBankMaker:170 - click on Add Bank Maker SubMenu===>Add Bank Maker
+2023-08-10 05:15:06 INFO  AddBankMaker:182 -  To switch the main Enter values Fields in * are mandatory
+2023-08-10 05:15:06 INFO  AddBankMaker:385 - click on view in Maker===
+2023-08-10 05:15:07 INFO  AddBankMaker:413 - Searh By Bank Id==>BIdCN
+2023-08-10 05:15:08 INFO  AddBankMaker:416 - Search By Bank Name =>PndADM
+2023-08-10 05:15:12 INFO  AddBankMaker:420 - Search By currency==>ghu1231C@gmail.com
+2023-08-10 05:15:16 INFO  AddBankMaker:424 - Search By Is Active Bank ==>Y
+2023-08-10 05:16:00 INFO  AddBankMaker:582 - click on Modify Button==>
+2023-08-10 05:16:01 INFO  AddBankMaker:585 -  Get the Text of Bank Modify Ppage===>>MODIFY BANK MAKER
+2023-08-10 05:16:01 INFO  AddBankMaker:587 -  verified the Modify Bank Maker Ppage
+2023-08-10 05:16:03 INFO  AddBankMaker:666 - Click on submitbutton
+2023-08-10 05:16:09 INFO  AddBankMaker:674 -  click on modify submit button==>
+2023-08-10 05:16:14 INFO  AddBankMaker:680 - verification Message In Modify Currency==>>Record has been modified successfully.
+2023-08-10 05:16:14 INFO  AddBankMaker:687 - Get the verify the Modify Successful Message===>>>Record has been modified successfully.
+2023-08-10 05:16:14 INFO  AddBankMaker:701 - Record has been modified successfully.
+2023-08-10 05:16:15 INFO  AddBankMaker:131 - enter login id..
+2023-08-10 05:16:15 INFO  AddBankMaker:138 - enter password=>
+2023-08-10 05:16:15 INFO  AddBankMaker:146 - Click On Login button..
+2023-08-10 05:16:19 INFO  AddBankMaker:273 -  Get text Master Definition Checker==>Master Definition Checker
+2023-08-10 05:16:19 INFO  AddBankMaker:274 - Clcik on MasterDefinitionChecker==>
+2023-08-10 05:16:19 INFO  AddBankMaker:281 - click On Add Bank Checker SubMenu==>Add Bank Checker
+2023-08-10 05:16:22 INFO  AddBankMaker:293 - Get Text of Bank Checker Page==>BANK CHECKER
+2023-08-10 05:16:22 INFO  AddBankMaker:298 - Successfully verified the Bank Checker Page.
+2023-08-10 05:16:22 INFO  AddBankMaker:773 - Click on Checkbox with Matched ValuesBIdCN
+2023-08-10 05:16:22 INFO  AddBankMaker:787 -  click on Submit button on Checker===>>
+2023-08-10 05:16:23 INFO  AddBankMaker:790 - successful Message in Checker====Record updated successfully.
+2023-08-10 05:16:23 INFO  AddBankMaker:378 - Click on Logout in checker PageLogout
+2023-08-10 05:16:24 INFO  AddBankMaker:131 - enter login id..
+2023-08-10 05:16:24 INFO  AddBankMaker:138 - enter password=>
+2023-08-10 05:16:24 INFO  AddBankMaker:146 - Click On Login button..
+2023-08-10 05:16:34 INFO  AddBankMaker:164 - clik on master definition maker Menu==>Master Definition Maker
+2023-08-10 05:16:34 INFO  AddBankMaker:170 - click on Add Bank Maker SubMenu===>Add Bank Maker
+2023-08-10 05:16:39 INFO  AddBankMaker:182 -  To switch the main Enter values Fields in * are mandatory
+2023-08-10 05:16:39 INFO  AddBankMaker:385 - click on view in Maker===
+2023-08-10 05:16:41 INFO  AddBankMaker:807 - Searh By Bank Id==>BIdCN
+2023-08-10 05:16:41 INFO  AddBankMaker:810 - Search By Bank Name =>PndADM
+2023-08-10 05:16:45 INFO  AddBankMaker:814 - Search By currency==>ghu1231C@gmail.com
+2023-08-10 05:16:49 INFO  AddBankMaker:818 - Search By Is Active Bank ==>Y
+2023-08-10 05:17:47 INFO  AddBankMaker:971 - click on logout Button In Maker page===>Logout
+2023-08-10 05:17:48 INFO  AddBankMaker:131 - enter login id..
+2023-08-10 05:17:48 INFO  AddBankMaker:138 - enter password=>
+2023-08-10 05:17:48 INFO  AddBankMaker:146 - Click On Login button..
+2023-08-10 05:17:52 INFO  AddBankMaker:273 -  Get text Master Definition Checker==>Master Definition Checker
+2023-08-10 05:17:52 INFO  AddBankMaker:274 - Clcik on MasterDefinitionChecker==>
+2023-08-10 05:17:52 INFO  AddBankMaker:281 - click On Add Bank Checker SubMenu==>Add Bank Checker
+2023-08-10 05:17:55 INFO  AddBankMaker:293 - Get Text of Bank Checker Page==>BANK CHECKER
+2023-08-10 05:17:55 INFO  AddBankMaker:298 - Successfully verified the Bank Checker Page.
+2023-08-10 05:17:55 INFO  AddBankMaker:976 - click on view Button In Checker Page
+2023-08-10 05:17:56 INFO  AddBankMaker:807 - Searh By Bank Id==>BIdCN
+2023-08-10 05:17:56 INFO  AddBankMaker:810 - Search By Bank Name =>PndADM
+2023-08-10 05:18:01 INFO  AddBankMaker:814 - Search By currency==>ghu1231C@gmail.com
+2023-08-10 05:18:05 INFO  AddBankMaker:818 - Search By Is Active Bank ==>Y

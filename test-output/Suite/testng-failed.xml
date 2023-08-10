@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="SmokeTest(failed)">
+    <classes>
+      <class name="com.hybridFramework.AddMaker.UpperLimitMakerTest">
+        <methods>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="verifyUpperLimitcheckerPageListAfterModificationhasDoneByMaker"/>
+          <include name="launchBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.hybridFramework.AddMaker.UpperLimitMakerTest -->
+    </classes>
+  </test> <!-- SmokeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
